@@ -2,7 +2,7 @@
 
 
 
-<img src="photo/Certificate_front.jpg" width = 25% height = 25% div align=right />
+<img src="photo/Certificate_front.jpg" width = 23% height = 23% div align=right />
 
 <img src="photo/Certificate_back.jpg" width = 50% height = 50% div align=right />
 
