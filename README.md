@@ -4,11 +4,11 @@
 
 <img src="photo/Certificate_front.jpg" width = 30% height = 30% div align=right />
 
-<img src="photo/Certificate_back.jpg" width = 30% height = 30% div align=right />
+<img src="photo/Certificate_back.jpg" width = 60% height = 60% div align=right />
 
 <img src="photo/test_site.jpg" width = 30% height = 30% div align=right />
 
-<img src="photo/test.jpg" width = 30% height = 30% div align=right />
+<img src="photo/test.png" width = 30% height = 30% div align=right />
 
 # 人脸检测
 人脸检测的检测方法主要有两类:基于知识(根据眼睛,眉毛,嘴巴,鼻子等器官特征及相互几何位置关系来检测)和基于统计(将人脸看作一个二维像素矩阵,通过大量人脸图像样本构造人脸模式空间,由相似度量判断人脸是否存在).
