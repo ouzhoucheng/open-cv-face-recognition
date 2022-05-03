@@ -6,7 +6,7 @@
 
 <img src="photo/Certificate_back.jpg" width = 50% height = 50% div align=right />
 
-<img src="photo/test.png" width = 48% height = 48% div align=right />
+<img src="photo/test.png" width = 45% height = 45% div align=right />
 
 <img src="photo/test_site.jpg" width = 25% height = 25% div align=right />
 
